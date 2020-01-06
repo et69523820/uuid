@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>PayloadContent</key>
+        <dict>
+            <key>URL</key>
+            <string>http://m.558168.com.tw:55816/udid_receive</string>
+            <key>DeviceAttributes</key>
+            <array>
+                <string>UDID</string>
+                <string>IMEI</string>
+                <string>ICCID</string>
+                <string>VERSION</string>
+                <string>PRODUCT</string>
+            </array>
+        </dict>
+        <key>PayloadOrganization</key>
+        <string>h18.tw</string>
+        <key>PayloadDisplayName</key>
+        <string>安裝緣定今生</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>PayloadUUID</key>
+        <string>3C4DC7D2-E475-3375-489C-0BB8D737A653</string>
+        <key>PayloadIdentifier</key>
+        <string>h18.tw.profile-service</string>
+        <key>PayloadDescription</key>
+        <string>要安裝APP必要的</string>
+        <key>PayloadType</key>
+        <string>Profile Service</string>
+    </dict>
+</plist>
