@@ -18,7 +18,7 @@
         <key>PayloadOrganization</key>
         <string>h18.tw</string>
         <key>PayloadDisplayName</key>
-        <string>安裝緣定今生</string>
+        <string>取得緣定今生VIP</string>
         <key>PayloadVersion</key>
         <integer>1</integer>
         <key>PayloadUUID</key>
@@ -26,7 +26,7 @@
         <key>PayloadIdentifier</key>
         <string>h18.tw.profile-service</string>
         <key>PayloadDescription</key>
-        <string>要安裝APP必要的</string>
+        <string>尊貴的VIP專用</string>
         <key>PayloadType</key>
         <string>Profile Service</string>
     </dict>
