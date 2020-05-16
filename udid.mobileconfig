@@ -5,7 +5,7 @@
         <key>PayloadContent</key>
         <dict>
             <key>URL</key>
-            <string>https://h18-udid.000webhostapp.com/udid_receive.php</string>
+            <string>https://h18.tw/udid_receive</string>
             <key>DeviceAttributes</key>
             <array>
                 <string>UDID</string>
